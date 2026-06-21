@@ -40,3 +40,8 @@ Linguagens & Tecnologias: Python, MATLAB, Excel Avançado, Origin, Análise Meta
 Projetos em destaque: Caracterização de Aços, Análise de Dados Experimentais
 <br/>
 <br/>
+
+
+<!--
+O bom e velho não sei centralizar um icone e vai ficar assim, caso esteja lendo isso ✨ OI! ✨
+-->
